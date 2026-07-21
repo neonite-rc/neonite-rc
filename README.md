@@ -5,7 +5,7 @@ ML Engineer building production-grade systems. I believe one deployed system wit
 ## About
 Developer from Bhubaneswar, Odisha, India. Building end-to-end ML systems with focus on InsurTech applications — risk scoring, claims prediction, fraud detection, and document analysis.
 
-**Portfolio:** [biswaketan.vercel.app](https://biswaketan.vercel.app)
+**Portfolio:** [biswaketan.in](https://biswaketan.vercel.app)
 **Email:** opneonite@gmail.com
 
 ## Flagship Systems
