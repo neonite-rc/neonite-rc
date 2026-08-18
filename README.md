@@ -19,7 +19,7 @@ Developer from Bhubaneswar, Odisha, India. Building end-to-end ML systems with f
 
 **ML/AI:** PyTorch, Transformers, RAG, MLOps, Airflow, MLflow, Docker
 **Languages:** Python, SQL, Java, C/C++
-**Infrastructure:** AWS, Azure, Kubernetes, Docker, CI/CD
+**Infrastructure:** AWS, Azure, GCP, Kubernetes, Docker, CI/CD
 
 ## Other Work
 
@@ -27,7 +27,7 @@ Developer from Bhubaneswar, Odisha, India. Building end-to-end ML systems with f
 |------|------|
 | [`data-analysis-lab`](https://github.com/neonite-rc/data-analysis-lab) | SQL analytics, visualization, statistical inference |
 | [`shoalhaven-da-extractor`](https://github.com/neonite-rc/shoalhaven-da-extractor) | Production data extraction pipeline |
-| [`drowsy-driver-detection`](https://github.com/neonite-rc/drowsy-driver-detection) | Computer vision for safety |
+| [`GCP Projects`](https://github.com/neonite-rc/GCP-Projects) | Google Cloud Based Projects | Building |
 | [`cyber-sec`](https://github.com/neonite-rc/cyber-sec) | Security research and PoCs |
 | [`sap-abap-rap`](https://github.com/neonite-rc/sap-abap-rap) | Enterprise SAP development |
 | [`full-stack-projects`](https://github.com/neonite-rc/full-stack-projects) | End-to-end web applications |
